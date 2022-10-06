@@ -1,0 +1,4 @@
+com\demo\controllers\MainController.class
+com\demo\SpringBootInternationalizationApplication.class
+com\demo\util\Translator.class
+com\demo\configuration\CustomLocaleResolver.class
